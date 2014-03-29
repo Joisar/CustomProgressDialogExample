@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">CustomProgressDialog</string>
+  <string name="btn1lbl">Do Some Long Time Consuming Task</string>
+  <string name="tv1">done!</string>
+  <string name="empty_string"></string>
+</resources>
